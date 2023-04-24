@@ -49,6 +49,6 @@ I had previously set tickets to default notmal so they havent been assigned to a
 <img src="https://i.imgur.com/7WIG6NJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As a general inquiry for example I created a mock ticket about something more related to the role. Changing the priority and reworking the ticket, as a agent and coordinating with other technicians may also be an option. The priority may get changed to emergency. After browsing the different options and features open source ticket has Ive noticed under the "knowledgebase" section I can list my own step by step tutorial of certain issues I have repaired. Possibly search for certain information I may have stored but not used in so long. 
+As a general inquiry for example I created a mock ticket about something more related to the role. Changing the priority and reworking the ticket, as a agent and coordinating with other technicians may also be an option. The priority may get changed to emergency. After browsing the different options and features open source ticket has Ive noticed under the "knowledgebase" section I can list my own step by step tutorial of certain issues I have repaired. Possibly search for certain information I may have stored but not used in so long. Also upon creating and completing a ticket, pictures and videos may be linked to the ticket as well.
 </p>
 <br />
